@@ -8,6 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "host-app": "file:"
+    "host-app": "file:",
+    "@packages/shared": "1.0.0"
   }
 }
