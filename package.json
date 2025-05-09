@@ -1,6 +1,7 @@
 {
   "name": "host-app",
   "version": "0.1.0",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -8,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "host-app": "file:",
+    "next": "15.3.2",
     "@packages/shared": "1.0.0"
   }
 }
