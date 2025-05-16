@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "next": "15.3.2",
-    "@packages/shared": "1.0.0"
+    "@packages/shared": "1.0.0",
+    "@packages/sass": "1.0.0"
   }
 }
